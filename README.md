@@ -25,6 +25,10 @@
 
 [Скриншот](enter_ my.cnf.JPG)
 ![Скриншот](enter_ my.cnf.JPG)
+[Скриншот](2-lesson\enter_ my.cnf.JPG)
+![Скриншот](2-lesson\enter_ my.cnf.JPG)
+[Скриншот](2-lesson/enter_ my.cnf.JPG)
+![Скриншот](2-lesson/enter_ my.cnf.JPG)
 
 
 
