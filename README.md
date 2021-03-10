@@ -23,14 +23,9 @@
 1.Сам файл с написанным кодом
 ![cnf](.my.cnf)
 
-[Скриншот](2-lesson/enter_ my.cnf.JPG)
-![Скриншот](2-lesson/enter_ my.cnf.JPG)
-[Скриншот](2 lesson/enter_ my.cnf.JPG)
-![Скриншот](2 lesson/enter_ my.cnf.JPG)
-[Скриншот](2-lesson\enter_ my.cnf.JPG)
-![Скриншот](2-lesson\enter_ my.cnf.JPG)
-[Скриншот](2 lesson\enter_ my.cnf.JPG)
-![Скриншот](2 lesson\enter_ my.cnf.JPG)
+[Скриншот](enter_ my.cnf.JPG)
+![Скриншот](enter_ my.cnf.JPG)
+
 
 
 2.![Созданные Базы](Созданные базы.JPG и Колонки в таблицах.JPG)
